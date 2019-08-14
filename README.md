@@ -1,5 +1,5 @@
-# machineLearning
-start towards it
+# Data Visualization
+A step toward Machine Learning
 ## Buid On:
 Jupyter Notebook Anaconda Distribution
 ## Implementation:
